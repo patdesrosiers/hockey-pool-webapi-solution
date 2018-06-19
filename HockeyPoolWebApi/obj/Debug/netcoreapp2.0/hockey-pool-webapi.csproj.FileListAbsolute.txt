@@ -1,0 +1,11 @@
+/Users/patdesrosiers/Documents/hockey-pool-webapi/bin/Debug/netcoreapp2.0/hockey-pool-webapi.deps.json
+/Users/patdesrosiers/Documents/hockey-pool-webapi/bin/Debug/netcoreapp2.0/hockey-pool-webapi.runtimeconfig.json
+/Users/patdesrosiers/Documents/hockey-pool-webapi/bin/Debug/netcoreapp2.0/hockey-pool-webapi.runtimeconfig.dev.json
+/Users/patdesrosiers/Documents/hockey-pool-webapi/bin/Debug/netcoreapp2.0/hockey-pool-webapi.dll
+/Users/patdesrosiers/Documents/hockey-pool-webapi/bin/Debug/netcoreapp2.0/hockey-pool-webapi.pdb
+/Users/patdesrosiers/Documents/hockey-pool-webapi/obj/Debug/netcoreapp2.0/hockey-pool-webapi.csprojResolveAssemblyReference.cache
+/Users/patdesrosiers/Documents/hockey-pool-webapi/obj/Debug/netcoreapp2.0/hockey-pool-webapi.csproj.CoreCompileInputs.cache
+/Users/patdesrosiers/Documents/hockey-pool-webapi/obj/Debug/netcoreapp2.0/hockey-pool-webapi.AssemblyInfoInputs.cache
+/Users/patdesrosiers/Documents/hockey-pool-webapi/obj/Debug/netcoreapp2.0/hockey-pool-webapi.AssemblyInfo.cs
+/Users/patdesrosiers/Documents/hockey-pool-webapi/obj/Debug/netcoreapp2.0/hockey-pool-webapi.dll
+/Users/patdesrosiers/Documents/hockey-pool-webapi/obj/Debug/netcoreapp2.0/hockey-pool-webapi.pdb

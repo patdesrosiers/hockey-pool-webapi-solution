@@ -1,0 +1,17 @@
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/bin/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.deps.json
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/bin/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.runtimeconfig.json
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/bin/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.runtimeconfig.dev.json
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/bin/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.dll
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/bin/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.pdb
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/bin/Debug/netcoreapp2.0/HockeyPoolWebApi.dll
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/bin/Debug/netcoreapp2.0/HockeyPoolWebApi.pdb
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/obj/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.csprojResolveAssemblyReference.cache
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/obj/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.csproj.CoreCompileInputs.cache
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/obj/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.AssemblyInfoInputs.cache
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/obj/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.AssemblyInfo.cs
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/obj/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.csproj.CopyComplete
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/obj/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.dll
+/Users/patdesrosiers/Documents/hockey-pool-webapi-solution/HockeyPoolWebApi.Tests/obj/Debug/netcoreapp2.0/HockeyPoolWebApi.Tests.pdb
